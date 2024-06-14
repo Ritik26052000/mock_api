@@ -1,0 +1,52 @@
+{
+    "songs":[
+        {
+            "songurl": "./assets./Bekhayali.mp3"
+        },
+        {
+            "songurl":"./assets./Dil_di_ya_Galla.mp3"
+        },
+        {
+            "songurl":"./assets./Humdard.mp3"
+        },
+        {
+            "songurl":"./assets./Kesariya.mp3"
+        },
+        {
+            "songurl":"./assets./Let_Me_Love_You.mp3"
+        },
+        {
+            "songurl":"./assets./O-Sajni-Re-Arijit-Singh.mp3"
+        },
+        {
+            "songurl":"./assets./Ohi-Yaar.mp3"
+        },
+        {
+            "songurl":"./assets./tum_hi_ho.mp3"
+        },
+        {
+            "songurl":"./assets./Rolex_BGM_Vikram.mp3"
+        },
+        {
+            "songurl":"./assets./Alag Tujhme Asar Kuch.mp3"
+        },
+        {
+            "songurl":"./assets./KGF-2 BGM.mp3"
+        },
+        {
+            "songurl":"./assets./Theri BGM Vedalam.mp3"
+        },
+        {
+            "songurl":"./assets./Bing Bang Bong Mashale.mp3"
+        },
+        {
+            "songurl":"./assets./Tu Maan Meri Baat.mp3"
+        },
+        {
+            "songurl":"./assets./Illuminati.mp3"
+        },
+        {
+            "songurl":"./assets./Winning Speech (1).mp3"
+        }
+    ]
+}
